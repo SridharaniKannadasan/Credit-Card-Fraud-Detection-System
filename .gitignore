@@ -16,6 +16,9 @@ staticfiles/
 # Testing scratch scripts
 test_run.py
 test_output.py
+*.csv.csv
+single1.csv
+
 
 # OS generated
 .DS_Store

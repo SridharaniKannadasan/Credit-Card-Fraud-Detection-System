@@ -16,6 +16,18 @@ An end-to-end Machine Learning web platform developed with **Django**, **Scikit-
 
 ---
 
+## 📸 Application Previews
+
+| Landing Page | Data Analysis & Distribution |
+|:---:|:---:|
+| ![Landing Page](Screen-Videos/1.png) | ![Data Analysis](Screen-Videos/3.png) |
+
+| Reports & Trained Models | Real-Time Fraud Prediction |
+|:---:|:---:|
+| ![Reports](Screen-Videos/5.png) | ![Predictions](Screen-Videos/6.png) |
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Backend**: Python, Django 6.x
