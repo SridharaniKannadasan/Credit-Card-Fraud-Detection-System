@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Django
+*.log
+local_settings.py
+staticfiles/
+
+# Testing scratch scripts
+test_run.py
+test_output.py
+
+# OS generated
+.DS_Store
+Thumbs.db
